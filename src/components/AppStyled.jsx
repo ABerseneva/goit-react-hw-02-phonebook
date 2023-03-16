@@ -24,6 +24,7 @@ export const WrapContacts = styled.div`
   margin: auto;
   padding: 20px;
 `;
+
 export const Contacts = styled.h2`
   color: white;
 `;
